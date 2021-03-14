@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @YanCavalcanti-code!
-- 👀 I’m interested in Geographic Information Systems (GIS).
-- 🌱 I’m currently learning JavaScript and Python languages for development of interactive maps with Leaflet Library.
-- 💞️ I’m looking to collaborate on Leaflet map projects.
 - 📫 How to reach me: yancavalcanti@gmail.com
 
 <!---
